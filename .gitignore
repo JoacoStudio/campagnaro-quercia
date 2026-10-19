@@ -1,4 +1,5 @@
 .vercel
+.env*
 Publicacion/
 Thumbs.db
 desktop.ini
